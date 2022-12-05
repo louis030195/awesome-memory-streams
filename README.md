@@ -18,14 +18,31 @@ No startup exists building such product because it is collecting very personal i
 - https://github.com/louis030195/ega
 - https://obsproject.com
 
-### Visual
+### Senses
+
+#### Sight
 
 - https://photos.google.com
 
-### Time
+#### Hearing
+
+https://www.last.fm/home
+
+#### Touch
+
+
+#### Taste
+
+- https://symphony.fr
+
+#### Smell
+
+### Others
+
+#### Time
 
 - https://timingapp.com
 
-### Health
+#### Health
 
 - https://ouraring.com
