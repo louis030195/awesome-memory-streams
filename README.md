@@ -10,6 +10,10 @@ List of software that allows you to collect and aggregate data about your life.
 
 No startup exists building such product because it is collecting very personal information, so you cannot make a business out of it. In short, code it yourself.
 
+## TODO
+
+- [ ] find proper way to structure this page
+
 ## List
 
 ### General
@@ -17,6 +21,7 @@ No startup exists building such product because it is collecting very personal i
 - https://www.rewind.ai
 - https://github.com/louis030195/ega
 - https://obsproject.com
+- https://roberdam.com/en/wisper.html
 
 ### Senses
 
