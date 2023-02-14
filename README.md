@@ -4,7 +4,7 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-List of software that allows you to collect and aggregate data about your life.
+List of software that allows you to collect and aggregate data about your senses' inputs
 
 ## Why?
 
