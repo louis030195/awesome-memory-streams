@@ -30,7 +30,7 @@ For a long time no one built this as a real product because it means collecting 
 #### Hearing
 
 - [Last.fm](https://www.last.fm/home) — scrobble everything you listen to
-- [whisper.cpp](https://github.com/ggerganov/whisper.cpp) — transcribe what you hear, locally
+- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) — transcribe what you hear, locally
 
 #### Touch
 
