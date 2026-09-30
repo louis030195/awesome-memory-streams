@@ -8,13 +8,13 @@ List of software that allows you to collect and aggregate data about your senses
 
 ## Why?
 
-For a long time no one built this as a real product because it means collecting deeply personal data. That changed: **local-first, open-source tools now keep the data on your own machine**, so you can capture your life without handing it to anyone. If nothing here fits, the old advice still holds — code it yourself.
+These tools help you collect and revisit computer activity and other personal data. Capture coverage, licensing, and data handling vary by tool and configuration.
 
 ## List
 
 ### General
 
-- [screenpipe](https://github.com/screenpipe/screenpipe) — 24/7 local screen & mic recording, indexed for AI search and agents
+- [screenpipe](https://github.com/screenpipe/screenpipe): captures screen text and audio locally for search, recall, and agent context through its local API and [MCP server](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp). Source-available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md). Configured cloud AI, transcription, sync, and integrations can transmit context off-device.
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) — open-source automated time/activity tracker, fully local
 - [OpenRecall](https://github.com/openrecall/openrecall) — open-source, privacy-first take on Windows Recall
 - [OBS Studio](https://obsproject.com) — capture and record your screen and audio
@@ -25,7 +25,7 @@ For a long time no one built this as a real product because it means collecting 
 #### Sight
 
 - [Google Photos](https://photos.google.com) — automatic photo capture and backup
-- [screenpipe](https://github.com/screenpipe/screenpipe) — everything you see on screen (OCR + accessibility)
+- [screenpipe](https://github.com/screenpipe/screenpipe): searchable screen text captured through accessibility and OCR, subject to capture settings and app support.
 
 #### Hearing
 
